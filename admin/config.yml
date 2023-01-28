@@ -915,9 +915,9 @@ collections:
             label: Text
             name: 73225ee3
             widget: string
-          - hint: 'Original text: On what blocchain is your project, key: -150224f6'
+          - hint: 'Original text: On what blocKchain is your project, key: 802ea71'
             label: Text
-            name: '-150224f6'
+            name: 802ea71
             widget: string
           - hint: 'Original text: Ethereum, key: -50bf6be9'
             label: Text
@@ -999,6 +999,10 @@ collections:
             label: Text
             name: 5d4efb91
             widget: string
+          - hint: 'Original text: TRON, key: 276cdd'
+            label: Text
+            name: 276cdd
+            widget: string
           - hint: >-
               Original text: Click to copy our crypto address. Send the crypto
               and paste the Transaction Scan Link or Transaction Address, key:
@@ -1071,13 +1075,13 @@ collections:
             label: Text
             name: '-7f24ffa2'
             widget: string
-          - hint: 'Original text: Promo Campaign Packages, key: -4b2e96f4'
+          - hint: 'Original text: Promo Campaign Packages Rates, key: 3875e35f'
             label: Text
-            name: '-4b2e96f4'
+            name: 3875e35f
             widget: string
-          - hint: 'Original text: Building Your NFT Website, key: 29851d76'
+          - hint: 'Original text: Want us to build your NFT website?, key: 11ee90d0'
             label: Text
-            name: 29851d76
+            name: 11ee90d0
             widget: string
       - label: Links
         name: links

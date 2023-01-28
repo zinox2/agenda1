@@ -121,7 +121,7 @@
   "4ad78e": "£199",
   "4adf10": "£399",
   "73225ee3": "Fill out the form to list your NFT project",
-  "-150224f6": "On what blocchain is your project",
+  "802ea71": "On what blocKchain is your project",
   "-50bf6be9": "Ethereum",
   "-6c0f019c": "Solana",
   "4b86ed1a": "Polygon",
@@ -138,6 +138,7 @@
   "10d79": "ETH",
   "258fcc": "POLY",
   "5d4efb91": "USDT TRC20",
+  "276cdd": "TRON",
   "7bd1c6d0": "Click to copy our crypto address. Send the crypto and paste the Transaction Scan Link or Transaction Address",
   "1ed033d4": "Address",
   "4bcff0b2": "CARDANO",
@@ -152,6 +153,6 @@
   "5d4fbc46": "Get in touch with us",
   "-20882a06": "Tell us what you need help with. Our team is here to help you with everything regarding NFTs.",
   "-7f24ffa2": "SERVICES",
-  "-4b2e96f4": "Promo Campaign Packages",
-  "29851d76": "Building Your NFT Website"
+  "3875e35f": "Promo Campaign Packages Rates",
+  "11ee90d0": "Want us to build your NFT website?"
 }
